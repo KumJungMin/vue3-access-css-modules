@@ -3,7 +3,6 @@ import MyComponent from './components/MyComponent.vue'
 </script>
 
 <template>
-  <h2>See browser console</h2>
   <MyComponent />
 </template>
 
